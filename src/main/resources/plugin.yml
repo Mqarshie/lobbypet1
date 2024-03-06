@@ -1,0 +1,4 @@
+name: lobbypet1
+version: '${version}'
+main: me.mqrshie.lobbypet1.Lobbypet1
+api-version: '1.20'
